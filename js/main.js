@@ -10,7 +10,7 @@ var $liLastChild = $('ul li:last-child');
 var $dl = $('dl');
 var $dt = $('dt');
 
-$header.addClass('masthead')
+$header.addClass('masthead');
 $h1.removeClass('big-heading');
 $h1.addClass('logo');
 $main.addClass('wrapper');
